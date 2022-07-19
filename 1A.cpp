@@ -1,3 +1,6 @@
+/*
+https://codeforces.com/problemset/problem/1/A
+*/
 #include <iostream>
 #include <cmath>
 #define ll long long
